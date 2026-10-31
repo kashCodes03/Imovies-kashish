@@ -1,0 +1,6 @@
+{
+  "name": "IMovies - Cinema Booking & Management",
+  "description": "A seamless online cinema booking and management platform with real-time seat availability tracking, showtime scheduling, instant tickets, and admin operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
